@@ -1,2 +1,2 @@
 # JGen
-Spring Boot &amp; Vue Generator
+Spring Boot &amp; Vue Generator!
